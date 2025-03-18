@@ -1,7 +1,10 @@
 [package]
 name = "grammarconversion"
 version = "0.1.0"
+authors = ["Altair"]
+description = "A converter from a set of grammar rules to json"
 edition = "2021"
+licence = "GPL-3.0"
 
 [dependencies]
 serde = { version = "1.0.219", features = ["derive"] }
