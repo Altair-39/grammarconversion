@@ -1,0 +1,9 @@
+S -> NP VP
+NP -> N N
+N -> Sir
+N -> Andrew
+VP -> V AdjP
+V -> is
+AdjP -> DEG ADJ 
+DEG -> very
+ADJ -> foolish
