@@ -1,6 +1,6 @@
 [package]
 name = "grammarconversion"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Altair"]
 description = "A converter from a set of grammar rules to json"
 edition = "2021"
