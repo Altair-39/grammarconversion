@@ -1,49 +1,210 @@
 {
-  "VP": [
+  "Det": [
     [
-      "V",
-      "AdjP"
-    ]
-  ],
-  "N": [
-    [
-      "Sir"
+      "the"
     ],
     [
-      "Andrew"
+      "that"
+    ],
+    [
+      "this"
+    ],
+    [
+      "a"
+    ]
+  ],
+  "Noun": [
+    [
+      "book"
+    ],
+    [
+      "flight"
+    ],
+    [
+      "meal"
+    ],
+    [
+      "money"
+    ],
+    [
+      "morning"
+    ]
+  ],
+  "Nominal": [
+    [
+      "book"
+    ],
+    [
+      "flight"
+    ],
+    [
+      "meal"
+    ],
+    [
+      "money"
+    ],
+    [
+      "morning"
+    ],
+    [
+      "Nominal",
+      "Noun"
+    ],
+    [
+      "Nominal",
+      "PP"
+    ]
+  ],
+  "PP": [
+    [
+      "Preposition",
+      "NP"
+    ]
+  ],
+  "verb": [
+    [
+      "book"
+    ],
+    [
+      "include"
+    ],
+    [
+      "prefer"
+    ]
+  ],
+  "Aux": [
+    [
+      "does"
+    ],
+    [
+      "do"
     ]
   ],
   "S": [
     [
       "NP",
       "VP"
+    ],
+    [
+      "X1",
+      "VP"
+    ],
+    [
+      "book"
+    ],
+    [
+      "include"
+    ],
+    [
+      "prefer"
+    ],
+    [
+      "Verb",
+      "NP"
+    ],
+    [
+      "X2",
+      "PP"
+    ],
+    [
+      "Verb",
+      "PP"
+    ],
+    [
+      "VP",
+      "PP"
     ]
   ],
-  "DEG": [
+  "Preposition": [
     [
-      "very"
-    ]
-  ],
-  "V": [
+      "from"
+    ],
     [
-      "is"
-    ]
-  ],
-  "AdjP": [
+      "to"
+    ],
     [
-      "DEG",
-      "ADJ"
+      "on"
+    ],
+    [
+      "near"
+    ],
+    [
+      "through"
     ]
   ],
   "NP": [
     [
-      "N",
-      "N"
+      "I"
+    ],
+    [
+      "she"
+    ],
+    [
+      "me"
+    ],
+    [
+      "United"
+    ],
+    [
+      "Houston"
+    ],
+    [
+      "Det",
+      "Nominal"
+    ],
+    [
+      "Det",
+      "Noun"
     ]
   ],
-  "ADJ": [
+  "X1": [
     [
-      "foolish"
+      "Aux",
+      "NP"
+    ]
+  ],
+  "VP": [
+    [
+      "book"
+    ],
+    [
+      "inlcude"
+    ],
+    [
+      "prefer"
+    ],
+    [
+      "Verb",
+      "NP"
+    ],
+    [
+      "X2",
+      "PP"
+    ],
+    [
+      "Verb",
+      "PP"
+    ],
+    [
+      "VP",
+      "PP"
+    ]
+  ],
+  "X2": [
+    [
+      "Verb",
+      "NP"
+    ]
+  ],
+  "Pronoun": [
+    [
+      "I"
+    ],
+    [
+      "she"
+    ],
+    [
+      "me"
     ]
   ]
 }
